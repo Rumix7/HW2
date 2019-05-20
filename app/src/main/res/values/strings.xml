@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="long_click">LONG CLICK</string>
+    <string name="retray_msg">Ponów</string>
+    <string name="delete_cancel_msg">Anulowano</string>
+    <string name="dialog_confirm">TAK</string>
+    <string name="dialog_cancel">Anuluj</string>
+    <string name="delete_question">Czy na pewno chcesz usunąć?</string>
+    <string name="bin">BIN</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="nazwa">Nazwa tytułu</string>
+    <string name="data_prem">Data premiery</string>
+    <string name="imie_nazwisko">Imię i nazwisko reżysera</string>
+    <string name="myFileprovider">com.example.hw2</string>
+    <string name="prefs">prefs</string>
+    <string name="text">text</string>
+    <string name="json">json</string>
+
+</resources>
